@@ -13,4 +13,4 @@ This is a web app with a basic quiz UI and functionality. Build with using react
 ```
 
 # Live Link / Demo
-https://quiz-app-one-nu.vercel.app/
+https://quiz-app-shailgautam4ever.vercel.app/
