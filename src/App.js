@@ -54,5 +54,10 @@ const MainContainer = styled.div`
   background-color: #eee;
   display: flex;
   padding: 30px;
-  gap:30px
+  gap:30px;
+  
+  @media only screen and (max-width: 600px) {
+    flex-direction: column-reverse;
+  }
+
 `

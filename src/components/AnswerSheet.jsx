@@ -32,6 +32,10 @@ const AnswerSheetContainer = styled.div`
     /* align-self: center; */
     margin-top: 2rem;
   }
+  @media only screen and (max-width: 600px) {
+    padding-bottom: 10px;
+    max-width: none;
+  }
 `;
 const AnswerItem = styled.div`
   padding: 10px;
